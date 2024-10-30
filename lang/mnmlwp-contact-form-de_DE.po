@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mnmlWP Contact Form 0.1\n"
+"POT-Creation-Date: 2018-05-24 17:50+0200\n"
+"PO-Revision-Date: 2018-05-24 17:59+0200\n"
+"Last-Translator: Sebastian Honert <sebastian.honert@gmail.com>\n"
+"Language-Team: sebastian.honert@gmail.com\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: mnmlwp-contact-form.php:93
+msgid ""
+"Error: The mailto parameter needs to include a single email address or a "
+"comma separated list of email addresses."
+msgstr ""
+"Fehler: Der mailto-Parameter benötigt eine gültige E-Mail-Adresse oder eine "
+"kommaseparierte Liste von E-Mail-Adressen."
+
+#: mnmlwp-contact-form.php:97
+msgid "Invalid token."
+msgstr "Ungültiges Token."
+
+#: mnmlwp-contact-form.php:107
+msgid "Please accept our terms and conditions before submitting the form."
+msgstr "Bitte akzeptiere vor dem Absenden unsere Bestimmungen zum Datenschutz."
+
+#: mnmlwp-contact-form.php:112
+msgid "Please enter the correct security number before sending the form."
+msgstr "Bitte gib die korrekte Sicherheitsnummer ein."
+
+#: mnmlwp-contact-form.php:117
+msgid "The e-mail addresses you provided do not match."
+msgstr "Die angegebenen E-Mail-Adressen stimmen nicht überein."
+
+#: mnmlwp-contact-form.php:155
+msgid "Name"
+msgstr "Name"
+
+#: mnmlwp-contact-form.php:156
+msgid "Your name"
+msgstr "Dein Name"
+
+#: mnmlwp-contact-form.php:158
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: mnmlwp-contact-form.php:159
+msgid "Your e-mail address"
+msgstr "Deine E-Mail-Adresse"
+
+#: mnmlwp-contact-form.php:161
+msgid "Confirm E-Mail"
+msgstr "E-Mail bestätigen"
+
+#: mnmlwp-contact-form.php:162
+msgid "Confirm your e-mail address"
+msgstr "E-Mail-Adresse bestätigen"
+
+#: mnmlwp-contact-form.php:165 mnmlwp-contact-form.php:314
+#: mnmlwp-contact-form.php:332
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: mnmlwp-contact-form.php:166
+msgid "+49 (0) 123 456789"
+msgstr "+49 (0) 123 456789"
+
+#: mnmlwp-contact-form.php:170 mnmlwp-contact-form.php:318
+#: mnmlwp-contact-form.php:336
+msgid "Address"
+msgstr "Anschrift"
+
+#: mnmlwp-contact-form.php:171
+msgid "Your address"
+msgstr "Deine Anschrift"
+
+#: mnmlwp-contact-form.php:174
+msgid "Message"
+msgstr "Nachricht"
+
+#: mnmlwp-contact-form.php:175
+msgid "Your message"
+msgstr "Deine Nachricht"
+
+#: mnmlwp-contact-form.php:178
+msgid "Security Number"
+msgstr "Sicherheitnummer"
+
+#: mnmlwp-contact-form.php:179
+msgid "Please enter the security number"
+msgstr "Bitte gib die Sicherheitsnummer ein"
+
+#: mnmlwp-contact-form.php:194
+msgid "Data Privacy"
+msgstr "Datenschutz"
+
+#: mnmlwp-contact-form.php:195 mnmlwp-contact-form.php:440
+msgid ""
+"By submitting the form you are agreeing to our data privacy <a href=\"#"
+"\">terms and conditions</a>."
+msgstr ""
+"Mit dem Absenden des Formulars akzeptierst Du unsere <a href=\"#"
+"\">Datenschutzerklärung</a>."
+
+#: mnmlwp-contact-form.php:198
+msgid "Submit Form"
+msgstr "Anfrage senden"
+
+#: mnmlwp-contact-form.php:310
+msgid "New Message"
+msgstr "Neue Nachricht"
+
+#: mnmlwp-contact-form.php:311
+msgid "Someone sent you a message through your contact form."
+msgstr "Jemand hat Dir eine Nachricht über das Kontaktformular gesendet."
+
+#: mnmlwp-contact-form.php:327
+msgid "Your Message"
+msgstr "Deine Nachricht"
+
+#: mnmlwp-contact-form.php:399
+msgid "mnmlWP Contact Form"
+msgstr "mnmlWP Kontaktformular"
+
+#: mnmlwp-contact-form.php:450
+msgid "Success Message"
+msgstr "Erfolgsmeldung"
+
+#: mnmlwp-contact-form.php:451
+msgid ""
+"This message will show on the website after the form was sucessfully "
+"submitted."
+msgstr ""
+"Dieser Hinweis wird angezeigt, nachdem das Formular erfolgreich abgeschickt "
+"wurde."
+
+#: mnmlwp-contact-form.php:457
+msgid "E-Mail Signature"
+msgstr "E-Mail-Signatur"
+
+#: mnmlwp-contact-form.php:458
+msgid ""
+"If this field is set, it's content will be added to all e-mails sent through "
+"your website."
+msgstr ""
+"Die E-Mail-Signatur wird an alle E-Mails angehängt, die über Deine Website "
+"versendet werden."
+
+#: mnmlwp-contact-form.php:464
+msgid "Contact form reply text"
+msgstr "Kontaktformular Antworttext"
+
+#: mnmlwp-contact-form.php:465
+msgid ""
+"The content of this field will be added to the auto reply e-mail sent "
+"through the contact form."
+msgstr ""
+"Dieser Inhalt wird am Anfang der automatischen E-Mail-Antwort Deines "
+"Kontaktformulars hinzugefügt."
+
+#: mnmlwp-contact-form.php:471
+msgid "Use token to prevent multiple submits?"
+msgstr "Token verwenden, um mehrfaches Absenden des Formulars zu verhindern?"
+
+#: mnmlwp-contact-form.php:472
+msgid "Disable this option if you get a token error when submitting the form."
+msgstr ""
+"Deaktiviere diese Option, falls Du beim Senden des Formulars einen Token-"
+"Fehler erhältst."
+
+#: mnmlwp-contact-form.php:478
+msgid "Use security number field?"
+msgstr "Sicherheitsnummer verwenden?"
+
+#: mnmlwp-contact-form.php:479
+msgid "Enabling this option will add a security number to your forms."
+msgstr ""
+"Wenn diese Option aktiviert ist, wird dem Kontaktformular ein zusätzliches "
+"Feld zur Eingabe einer Sicherheitsnummer hinzugefügt."
+
+#: mnmlwp-contact-form.php:485
+msgid "Use GDPR privacy checkbox?"
+msgstr "DSGVO-Checkbox verwenden?"
+
+#: mnmlwp-contact-form.php:491
+msgid "GDPR checkbox description"
+msgstr "Beschriftung der DSGVO-Checkbox"
+
+#~ msgid ""
+#~ "Thank you for your message. We have received your information and will "
+#~ "get back to you as soon as possible. You will receive a confirmation e-"
+#~ "mail shortly."
+#~ msgstr ""
+#~ "Vielen Dank für Deine Nachricht. Wir haben Deine Anfrage erhalten und "
+#~ "werden uns zeitnah bei Dir melden. In Kürze erhältst Du eine Bestätigung "
+#~ "Deiner Anfrage an die von Dir angegebene E-Mail-Adresse."

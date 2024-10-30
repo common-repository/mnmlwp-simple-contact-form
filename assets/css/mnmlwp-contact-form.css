@@ -1,0 +1,115 @@
+/* mnmlWP Contact Form Styles */
+
+.mnmlwp-contact-form label {
+    display: block;
+    margin-top: 1em;
+}
+
+.mnmlwp-contact-form label[for=name] {
+    margin-top: 0;
+}
+
+.mnmlwp-contact-form input:not([type=submit]):not([type=checkbox]),
+.mnmlwp-contact-form textarea {
+    width: 100%;
+}
+
+.mnmlwp-contact-form input[type=submit] {
+    margin-top: 1em;
+    -webkit-backface-visibility: hidden;
+    -webkit-appearance: none;
+}
+
+.mnnmlwp-contact-form input[type=checkbox]#gdpr_checkbox {
+    float: left;
+    width: auto!important;
+    background: red;
+}
+
+.mnmlwp-contact-form textarea {
+    min-height: 8em;
+}
+
+#mnmlwp-contact-form-anchor {
+    position: relative;
+    top: -7em;
+}
+
+.mnmlwp-contact-form-special {
+    display: none!important; /* Honeypot fields */
+}
+
+.mnmlwp-required-field::after {
+    content: '*';
+    display: inline-block;
+    color: #ee2200;
+    margin-left: .125em;
+}
+
+/* -----------------------------------------
+  Message Boxes
+  ----------------------------------------- */
+
+.mnmlwp-msg {
+    padding: 1em;
+    margin: 0 0 1em;
+    display: block;
+}
+
+.mnmlwp-msg.mnmlwp-msg-first {
+    margin-top: 0;
+}
+
+.mnmlwp-msg p {
+    display: inline;
+}
+
+.mnmlwp-msg a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.mnmlwp-msg.mnmlwp-msg-default {
+    color: #595959;
+    background: #f3f3f3;
+}
+
+.mnmlwp-msg.mnmlwp-msg-default a {
+    color: #595959!important;
+}
+
+.mnmlwp-msg.mnmlwp-msg-info {
+    color: #2875a8;
+    background-color: #e1f2fe;
+}
+
+.mnmlwp-msg.mnmlwp-msg-info a {
+    color: #2875a8!important;
+}
+
+.mnmlwp-msg.mnmlwp-msg-success {
+    color: #35905c;
+    background-color: rgba(66,178,114, .1);
+}
+
+.mnmlwp-msg.mnmlwp-msg-success a {
+    color: #35905c!important;
+}
+
+.mnmlwp-msg.mnmlwp-msg-warning {
+    color: #9F6000;
+    background-color: #FEEFB3;
+}
+
+.mnmlwp-msg.mnmlwp-msg-warning a {
+    color: #9F6000!important;
+}
+
+.mnmlwp-msg.mnmlwp-msg-error {
+    color: #D8000C;
+    background-color: #FCE8E8;
+}
+
+.mnmlwp-msg.mnmlwp-msg-error a {
+    color: #D8000C!important;
+}
